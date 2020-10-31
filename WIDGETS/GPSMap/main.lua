@@ -111,46 +111,46 @@ local function create(zone, options)
 if LoadMap == 0 then
   
 -- coordinates for the extra small map.
-map.North.xsmall = 52.324057
-map.South.xsmall = 52.323165
-map.West.xsmall = 21.023157
-map.East.xsmall = 21.025731
+map.North.xsmall = 52.145421
+map.South.xsmall = 52.144525
+map.West.xsmall = 21.043057
+map.East.xsmall = 21.045631
 -- No Fly Zone screen coordinates for extra small map--
 map.poly.xsmall = {{0,0}, {0,0}, {0,0}, {0,0}, {0,0}}
 
 
 -- coordinates for the small map.
-map.North.small = 52.324503
-map.South.small = 52.322719
-map.West.small = 21.021869
-map.East.small = 21.027019
+map.North.small = 52.145868
+map.South.small = 52.144078
+map.West.small = 21.041769
+map.East.small = 21.046919
 -- No Fly Zone screen coordinates for small map--
 map.poly.small = {{0,0}, {0,0}, {0,0}, {0,0}, {0,0}}
 
 
 -- coordinates for the medium map.
-map.North.medium = 52.325395
-map.South.medium = 52.321827
-map.West.medium = 21.019294
-map.East.medium = 21.029594
+map.North.medium = 52.146764
+map.South.medium = 52.143182
+map.West.medium = 21.039194
+map.East.medium = 21.049494
 -- No Fly Zone screen coordinates for medium map--
 map.poly.medium = {{0,0}, {0,0}, {0,0}, {0,0}, {0,0}}
 
 
 -- coordinates for the large map.
-map.North.large = 52.327178
-map.South.large = 52.320044
-map.West.large = 21.014144
-map.East.large = 21.034744
+map.North.large = 52.148555
+map.South.large = 52.141391
+map.West.large = 21.034044
+map.East.large = 21.054644
 -- No Fly Zone screen coordinates for large map--
 map.poly.large = {{0,0}, {0,0}, {0,0}, {0,0}, {0,0}}
 
 
 -- coordinates for the extra large map.
-map.North.xlarge = 52.330746
-map.South.xlarge = 52.316476
-map.West.xlarge = 21.003845
-map.East.xlarge = 21.045043
+map.North.xlarge = 52.152136
+map.South.xlarge = 52.13781
+map.West.xlarge = 21.023745
+map.East.xlarge = 21.064943
 -- No Fly Zone screen coordinates for extra large map--
 map.poly.xlarge = {{0,0}, {0,0}, {0,0}, {0,0}, {0,0}}
 
